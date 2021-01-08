@@ -1,0 +1,22 @@
+[
+{
+   "name" : "Binh",
+   "age" :  "38",
+   "gender" : "male",
+   "image": "image/image1.jpg"
+ 
+},
+{
+   "name" : "Nhat",
+   "age" : "34",
+   "gender" : "male",
+   "image": "image/image1.jpg"
+
+},
+{
+   "name" : "Nhu",
+   "age" : "25",
+   "gender" : "female",
+   "image": "image/image1.jpg"
+
+}]
